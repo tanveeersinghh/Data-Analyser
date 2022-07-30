@@ -6,7 +6,7 @@ Making Data Analysis Easier.
 
 # How to Use ?
 1. Upload any csv file
-2. See Plots and Select any fo the Columns.
+2. See Plots and Select any of the Columns.
 
 
 # Video Example
